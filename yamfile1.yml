@@ -1,0 +1,13 @@
+name: "ardavan"
+age: 32
+phone:
+  - 111
+  - 222
+  - 333
+#[111,222,333]
+
+email:
+  a: aaa
+  b: bbb
+  c: ccc
+#{a: "aaa", b: "bbb", c: ccc}

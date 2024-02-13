@@ -1,0 +1,10 @@
+devices:
+  frr1:
+    connections:
+      cli:
+        ip: 5.34.192.234
+        protocol: ssh
+    credentials:
+      default:
+        password:
+
